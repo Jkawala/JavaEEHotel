@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="JavaEEHotel:ear">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaEEHotel_ear</output-path>
+    <root id="archive" name="JavaEEHotel_ear.ear">
+      <element id="artifact" artifact-name="JavaEEHotel:ear exploded" />
+    </root>
+  </artifact>
+</component>
